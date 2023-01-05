@@ -1,0 +1,8 @@
+../Core/Src/InternalCommsModule.c:98:17:IComms_Init	16	static
+../Core/Src/InternalCommsModule.c:105:17:IComms_Transmit	24	static
+../Core/Src/InternalCommsModule.c:110:17:IComms_ReceiveNextMessage	40	static
+../Core/Src/InternalCommsModule.c:120:16:IComms_HasRxMessage	4	static
+../Core/Src/InternalCommsModule.c:128:13:IComms_Update	24	static
+../Core/Src/InternalCommsModule.c:157:14:ICommsQueue_init	16	static
+../Core/Src/InternalCommsModule.c:164:14:ICommsQueue_enqueue	32	static
+../Core/Src/InternalCommsModule.c:181:25:ICommsQueue_dequeue	48	static

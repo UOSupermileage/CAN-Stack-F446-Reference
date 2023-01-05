@@ -1,0 +1,2 @@
+../Core/Src/SerialDebugDriver.c:13:13:SerialPrint	16	static
+../Core/Src/SerialDebugDriver.c:22:13:SerialPrintln	16	static

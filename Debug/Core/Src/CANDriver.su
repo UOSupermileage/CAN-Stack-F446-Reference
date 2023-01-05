@@ -1,0 +1,12 @@
+../Core/Src/CANDriver.c:25:6:CANSPI_Sleep	8	static
+../Core/Src/CANDriver.c:37:6:CANSPI_Initialize	40	static
+../Core/Src/CANDriver.c:136:9:CANSPI_Transmit	40	static
+../Core/Src/CANDriver.c:200:9:CANSPI_Receive	64	static
+../Core/Src/CANDriver.c:261:9:CANSPI_messagesInBuffer	16	static
+../Core/Src/CANDriver.c:281:9:CANSPI_isBussOff	16	static
+../Core/Src/CANDriver.c:296:16:CANSPI_isRxErrorPassive	16	static
+../Core/Src/CANDriver.c:311:16:CANSPI_isTxErrorPassive	16	static
+../Core/Src/CANDriver.c:326:17:convertReg2ExtendedCANid	32	static
+../Core/Src/CANDriver.c:348:17:convertReg2StandardCANid	24	static
+../Core/Src/CANDriver.c:361:13:convertCANid2Reg	32	static
+../Core/Src/CANDriver.c:397:17:readMsg	24	static
